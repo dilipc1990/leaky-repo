@@ -1,4 +1,4 @@
-name: Secrets Scan
+name: GitLeaks Scan
 on:
   pull_request:
   push:
